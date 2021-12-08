@@ -1,0 +1,15 @@
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net5.0/AdventOfCode.deps.json
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net5.0/AdventOfCode.runtimeconfig.json
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net5.0/AdventOfCode.runtimeconfig.dev.json
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net5.0/AdventOfCode.dll
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net5.0/ref/AdventOfCode.dll
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/bin/Debug/net5.0/AdventOfCode.pdb
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/AdventOfCode.csproj.AssemblyReference.cache
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/AdventOfCode.AssemblyInfoInputs.cache
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/AdventOfCode.AssemblyInfo.cs
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/AdventOfCode.csproj.CoreCompileInputs.cache
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/AdventOfCode.dll
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/ref/AdventOfCode.dll
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/AdventOfCode.pdb
+/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/Debug/net5.0/AdventOfCode.genruntimeconfig.cache
