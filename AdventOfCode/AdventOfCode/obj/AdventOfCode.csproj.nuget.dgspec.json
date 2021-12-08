@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/AdventOfCode.csproj": {}
+    "/Users/Jin/Repos/AdventOfCode/AdventOfCode2021/AdventOfCode/AdventOfCode/AdventOfCode.csproj": {}
   },
   "projects": {
-    "/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/AdventOfCode.csproj": {
+    "/Users/Jin/Repos/AdventOfCode/AdventOfCode2021/AdventOfCode/AdventOfCode/AdventOfCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+        "projectUniqueName": "/Users/Jin/Repos/AdventOfCode/AdventOfCode2021/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
         "projectName": "AdventOfCode",
-        "projectPath": "/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+        "projectPath": "/Users/Jin/Repos/AdventOfCode/AdventOfCode2021/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
         "packagesPath": "/Users/Jin/.nuget/packages/",
-        "outputPath": "/Users/Jin/Repos/AdventOfCode/AdventOfCode/AdventOfCode/obj/",
+        "outputPath": "/Users/Jin/Repos/AdventOfCode/AdventOfCode2021/AdventOfCode/AdventOfCode/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Jin/.config/NuGet/NuGet.Config"
